@@ -290,21 +290,6 @@ open ios/Runner.xcworkspace
 
 ---
 
-## 📸 Screenshots
-
-* Home screen
-  ![alt text](IMG_2016.jpg)
-* Filters
-  ![alt text](IMG_2017.jpg)
-* Article detail
-  ![alt text](IMG_2018.jpg)
-* Bookmarks
-  ![alt text](IMG_2020.jpg)
-* Dark mode
-  ![alt text](IMG_2019.jpg)
-
----
-
 ## 💡 Key Design Decisions
 
 * Separation of concerns via service layer
