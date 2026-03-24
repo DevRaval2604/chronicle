@@ -192,7 +192,7 @@ flutter test test/news_provider_test.dart
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chronicle.git
+git clone https://github.com/DevRaval2604/chronicle.git
 cd chronicle
 ```
 
