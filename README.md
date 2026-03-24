@@ -127,7 +127,7 @@ lib/
 │   └── shimmer_loader.dart
 │
 ├── theme/            # App theme
-│   ├── app_theme.dart
+│   └── app_theme.dart
 │
 ```
 
@@ -168,7 +168,7 @@ The project includes **unit tests focused on business logic validation** .
 ### ▶️ Run Tests
 
 ```bash
-flutter test
+flutter test test/news_provider_test.dart
 ```
 
 ---
